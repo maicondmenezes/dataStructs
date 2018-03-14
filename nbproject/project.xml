@@ -9,7 +9,9 @@
             <header-extensions>h</header-extensions>
             <sourceEncoding>UTF-8</sourceEncoding>
             <make-dep-projects/>
-            <sourceRootList/>
+            <sourceRootList>
+                <sourceRootElem>C:\Users\MaJoy\Google Drive\Disciplinas_\Semestre3\AED I\DataStructs</sourceRootElem>
+            </sourceRootList>
             <confList>
                 <confElem>
                     <name>Debug</name>

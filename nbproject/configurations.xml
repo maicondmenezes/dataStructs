@@ -4,7 +4,8 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Arquivos de Cabeçalho"
                    projectFiles="true">
-      <itemPath>SequentialLinearList.h</itemPath>
+      <itemPath>C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinearList.h</itemPath>
+      <itemPath>C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinkedList.h</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Arquivos de Código-Fonte"
@@ -27,6 +28,9 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>C:\Users\MaJoy\Google Drive\Disciplinas_\Semestre3\AED I\DataStructs</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -37,7 +41,15 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="SequentialLinearList.h" ex="false" tool="3" flavor2="0">
+      <item path="C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinearList.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinkedList.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -62,7 +74,15 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="SequentialLinearList.h" ex="false" tool="3" flavor2="0">
+      <item path="C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinearList.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/MaJoy/Google Drive/Disciplinas_/Semestre3/AED I/DataStructs/LinkedList.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
